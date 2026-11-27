@@ -1,5 +1,5 @@
 outs:
-- md5: d41d8cd98f00b204e9800998ecf8427e
-  size: 0
+- md5: 3eaa8e22419c67f3dda8171d9fc28c2b
+  size: 14
   hash: md5
   path: new3.txt
